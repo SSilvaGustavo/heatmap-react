@@ -22,8 +22,8 @@ html {
   box-shadow: 1px 1px 150px 11px rgba(195, 195, 195, 0.4);
   border-radius: 6px;
   display: grid;
-  grid-template-columns: repeat(12, 1fr); /* Divide em 10 colunas */
-  grid-template-rows: repeat(5, 1fr); /* Uma linha */
+  grid-template-columns: repeat(18, 1fr);
+  grid-template-rows: repeat(4, 1fr);
   grid-area: span;
   gap: 1px;
   position: relative;
